@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: My Summer in Bali
+title: Summer in Bali
 date: 2021-05-10T20:43:55.329Z
 description: "Small trip yet best one "
 ---
