@@ -8,39 +8,13 @@ description: An experience sharing the best travel places in Bhutan
 
 <html lang="en"><head>
 
-<meta charset="utf-8">
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-
-<title>About | Your awesome title</title>
-
 <meta name="generator" content="Jekyll v4.2.0" />
 
 <meta property="og:title" content="About" />
 
 <meta property="og:locale" content="en_US" />
 
-<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
-
-<meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
-
-<link rel="canonical" href="/about/" />
-
 <meta property="og:url" content="/about/" />
-
-<meta property="og:site_name" content="Your awesome title" />
-
-<meta name="twitter:card" content="summary" />
-
-<meta property="twitter:title" content="About" />
-
-<script type="application/ld+json">
-
-{"description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@type":"WebSite","url":"/about/","name":"Your awesome title","headline":"About","@context":"https://schema.org"}</script>
-
-<!-- End Jekyll SEO tag -->
 
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Travel to Bhutan" /></head>
 
@@ -59,10 +33,7 @@ description: An experience sharing the best travel places in Bhutan
 </span>
 
 </label>
-
-<div class="trigger"><a class="page-link" href="/src/pages/blog/2021-05-10-hey-test-blog-from-surjith.html">Bhutan Diaries</a><a class="page-link" href="/about/">About</a></div>
-
-</nav></div>
+</div>
 
 </header>
 
@@ -74,27 +45,12 @@ description: An experience sharing the best travel places in Bhutan
 
 <header class="post-header">
 
-<h1 class="post-title">About</h1>
 
 </header>
 
 <div class="post-content">
 
-<p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
-
-<p>You can find the source code for Minima at GitHub:
-
-<a href="https://github.com/jekyll">jekyll</a> /
-
-<a href="https://github.com/jekyll/minima">minima</a></p>
-
-<p>You can find the source code for Jekyll at GitHub:
-
-<a href="https://github.com/jekyll">jekyll</a> /
-
-<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
-
-</div>
+<p>This is all about my experiece in Bhutan</p>
 
 </article>
 
@@ -106,25 +62,7 @@ description: An experience sharing the best travel places in Bhutan
 
 <div class="wrapper">
 
-<h2 class="footer-heading">Your awesome title</h2>
-
-<div class="footer-col-wrapper">
-
-<div class="footer-col footer-col-1">
-
-<ul class="contact-list">
-
-<li class="p-name">Your awesome title</li><li><a class="u-email" href="mailto:your-email@example.com">your-email@example.com</a></li></ul>
-
-</div>
-
-<div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/jekyll"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">jekyll</span></a></li><li><a href="https://www.twitter.com/jekyllrb"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">jekyllrb</span></a></li></ul>
-
-</div>
-
 <div class="footer-col footer-col-3">
-
-<p>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</p>
 
 </div>
 
