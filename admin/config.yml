@@ -47,11 +47,13 @@
 
 
 backend:
-  # name: git-gateway
-  name: github
+  name: git-gateway
+  # name: github
   branch: master
   repo: Ishaan98-bit/jekyll-blog
   site_domain: https://gifted-borg-5fbc96.netlify.com
+
+local_backend: true
 
 media_folder: static/img
 public_folder: /img
