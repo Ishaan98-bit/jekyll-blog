@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  <h2>Why you are here?</h2>
+  <h3>Ready to go on an adventure? You could throw caution to the wind and hit the road without a plan. But, if you want to maximize your time and get the most out of your vacation, you should consult the experts to find the best getaways, secret trails, and can’t-miss eateries that only those who devote their lives to traveling the world can help you find.
+Which experts can guide you to the sights you don’t want to miss, take you off the beaten path, and help you eat and play like a local? Travel bloggers. And, we’ve found some of the best of the best, who share their adventures and give you tips so you can travel like a pro. Our picks for the best travel blogs have something for everyone, from solo female travelers to active parents to photographers to family travelers to millennials. So, browse our 51 best travel blogs, pick those that resonate with your travel style or that inspire you to move beyond your comfort zone to go on an adventure, and then plan your next trip. Please note, we have listed our top travel blogs in alphabetical order to simplify your search; thus, they are not ranked or rated in any way</h3>
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="src/pages/blog/2021-05-10-bhutan-diaries.html">
+            <!-- {{ post.title | escape }} -->
+            <img src='https://www.jetsetter.com//uploads/sites/7/2018/05/yQtw59Jh-1380x690.jpeg'/>
+            <h2><a href="">My Summer in Bali</a></h2>
+          </a>
+        </h3>
+        <!-- {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%} -->
+      </li>
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="src/pages/blog/2021-05-10-bhutan-diaries.html">
+            <!-- {{ post.title | escape }} -->
+            <img src='https://www.traveldailymedia.com/assets/2019/03/Best-Places-to-Visit-in-India-for-Female-Solo-Travellers-1024x577.jpg'/>
+            <a href="src/pages/blog/2021-05-10-bhutan-diaries.html">Best food in Bhutan</a>
+          </a>
+        </h3>
+        <!-- {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%} -->
+      </li>
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <!-- {{ post.title | escape }} -->
+            <a>Most amazing places in Australia</a>
+          </a>
+        </h3>
+        <!-- {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%} -->
+      </li>
+      <!-- {%- endfor -%} -->
+    </ul>
+
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+  {%- endif -%}
+
+</div>
