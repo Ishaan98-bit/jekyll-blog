@@ -37,15 +37,9 @@ description: An experience sharing the best travel places in Bhutan
 
 <article class="post">
 
-<header class="post-header">
-
-
-</header>
-
 <div class="post-content">
 
 <p>This is all about my experiece in Bhutan</p>
-
 
 </div>
 
