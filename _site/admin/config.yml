@@ -49,7 +49,7 @@
 backend:
   name: git-gateway
   # name: github
-  branch: master
+  branch: main
   repo: Ishaan98-bit/jekyll-blog
   site_domain: https://gifted-borg-5fbc96.netlify.com
 
