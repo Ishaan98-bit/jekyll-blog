@@ -4,12 +4,6 @@ title: Bhutan Diaries
 date: 2021-05-10T13:33:32.774Z
 description: An experience sharing the best travel places in Bhutan
 ---
-<!DOCTYPE html>
-
-<html lang="en"><head>
-
-<meta name="generator" content="Jekyll v4.2.0" />
-
 <meta property="og:title" content="About" />
 
 <meta property="og:locale" content="en_US" />
@@ -52,7 +46,6 @@ description: An experience sharing the best travel places in Bhutan
 
 <p>This is all about my experiece in Bhutan</p>
 
-</article>
 
 </div>
 
@@ -71,7 +64,3 @@ description: An experience sharing the best travel places in Bhutan
 </div>
 
 </footer>
-
-</body>
-
-</html>
