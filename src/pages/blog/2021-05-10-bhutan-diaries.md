@@ -4,7 +4,7 @@ title: Bhutan Diaries
 date: 2021-05-10T13:33:32.774Z
 description: An experience sharing the best travel places in Bhutan
 ---
-<p align="left"><img align="left" src='https://cdn-bpkjk.nitrocdn.com/zNnfOmyUwiKtpHiEUZHMZhfvYPMQKjOO/assets/static/optimized/rev-1601233/blog/wp-content/uploads/2018/11/Bhutan-Travel-Guide-from-India.jpg' height="300" width="300" /> <img src='https://cdn-bpkjk.nitrocdn.com/zNnfOmyUwiKtpHiEUZHMZhfvYPMQKjOO/assets/static/optimized/rev-1601233/blog/wp-content/uploads/2017/09/Hotel-Bookings-in-Bhutan.jpg' height="300" width="300" /></p>
+<p align="left"><img align="left" src='https://cdn-bpkjk.nitrocdn.com/zNnfOmyUwiKtpHiEUZHMZhfvYPMQKjOO/assets/static/optimized/rev-1601233/blog/wp-content/uploads/2018/11/Bhutan-Travel-Guide-from-India.jpg' height="400" width="400" /> <img src='https://cdn-bpkjk.nitrocdn.com/zNnfOmyUwiKtpHiEUZHMZhfvYPMQKjOO/assets/static/optimized/rev-1601233/blog/wp-content/uploads/2017/09/Hotel-Bookings-in-Bhutan.jpg' height="400" width="400" /></p>
 
 
 
