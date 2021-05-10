@@ -4,6 +4,7 @@ title: Summer in Bali
 date: 2021-05-10T20:43:55.329Z
 description: "Small trip yet best one "
 ---
+<a href="/">Back</a>
 <p ><img align="left" src='https://www.nicetourbali.com/wp-content/uploads/2018/04/Bali-Packages-India.jpg' height="60%" width="45%" /> <img src='https://www.travelescape.in/wp-content/uploads/2019/11/GOPR0938-scaled.jpg' height="60%" width="45%" /> <h3>
 
 Bali is a budget backpacker paradise. It’s one of the most popular destinations in [Indonesia](https://www.nomadicmatt.com/travel-guides/indonesia-travel-tips/) and a hub for travelers, yoga lovers, honeymooners, and digital nomads alike.
