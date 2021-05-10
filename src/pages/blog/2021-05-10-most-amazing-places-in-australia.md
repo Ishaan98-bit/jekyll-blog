@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Most amazing places in Australia
+title: Amazing places in Australia
 date: 2021-05-10T20:19:27.183Z
 description: It was one of the best trips that I again want to experience.
 ---
