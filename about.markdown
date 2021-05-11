@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description : this is about description
 ---
 <img src="https://www.reviewpro.com/wp-content/uploads/2019/05/traveler-1024x691.jpeg" />
 For more than 10 years I worked my ass off. Always trying to be the best. Always waiting for that next promotion. Always aiming to earn more money.
